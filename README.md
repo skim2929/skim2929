@@ -18,6 +18,6 @@ Here are some ideas to get you started:
   * Attending Stevens Institute of Technology as a computer science student
   * Gaining experience in a wide variety of fields such as operating systems, web development, and android development.
   * Seeking full-time software engineering opportunities.
- 📫 How to reach me: ...
+📫 How to reach me: ...
   * Email: seankim9641@gmail.com
   * Linkedin: www.linkedin.com/in/sean-kim-ba718b200/
