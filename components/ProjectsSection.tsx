@@ -9,14 +9,14 @@ const projects = [
     name: "Fantasy Sports Tool",
     description:
       "Fantasy Sports Tool is a web app that acts as an information supplement for fantasy sports players.",
-    image: "/fantasysite.png",
+    image: "/fantasysite.PNG",
     github: "https://github.com/skim2929/Fantasy-Basketball",
     link: "",
   },
   {
     name: "MiraTheraputics Watch Application",
     description: "This watch application functions as a companion app to the trauma response mobile application",
-    image: "/watchapp.png",
+    image: "/watchapp.PNG",
     github: "",
     link: "",
   },
